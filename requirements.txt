@@ -1,0 +1,7 @@
+numpy==1.23.5
+pandas==1.5.3
+tensorflow==2.12.0
+scikit-learn==1.2.2
+web3==6.10.0
+networkx==3.1
+
